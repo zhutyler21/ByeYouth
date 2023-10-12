@@ -1,2 +1,8 @@
-# ByeYouth
-这个Prompt采用了逆向提示词工程，从自白式博客、日记、散文中提取了表达提示词，并转化成正向的提示词。 特别擅长创作【深情自白、旅行叙事、感性表达】类的文章。欢迎使用！
+# 【再见青春】自白式散文创作
+
+[![GitHub stars](https://img.shields.io/github/stars/zhutyler21/ChartRebuild?style=social)](https://github.com/zhutyler21/ChartRebuild)
+![version](https://img.shields.io/badge/version-1.0-blue)
+
+这个Prompt特别擅长创作【深情自白、旅行叙事、感性表达】类的文章。欢迎使用！
+
+建议使用GPT-4，输入Prompt，即可开始体验。
