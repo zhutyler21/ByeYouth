@@ -4,7 +4,7 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCt0wyEJC7XbJCretDO-jacA)
 
 - 这个Prompt特别擅长创作【深情自白、旅行叙事、感性表达】类的文章。欢迎使用！
-- 建议使用GPT-4，输入Prompt，即可开始体验。
+- 建议使用GPT-4，输入Prompt，即可开始体验。[点击链接](https://chat.openai.com/share/6abde709-dfc6-4829-bcc9-ace3f6d2a026)
 _________________
 
 ## 效果概览：
